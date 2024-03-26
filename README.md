@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @itsmedona , I am  a passionate application developer.
-- 👀 My primary focus revolves around the dynamic world of app development, where I strive to blend creativity with functionality.
-- 🌱 Dart, Flutter, Api, Provider, Hive, Shared Preferences
-- 💞️ Passionate about turning ideas into reality,
--  I am actively seeking collaboration opportunities on real-world projects.
--  I believe in the power of collective creativity and am eager to contribute my skills to projects that make a tangible impact.
-- 📫 Reach me at donashaji254@gmail.com
+<h1 align="center">Hi 👋, I'm itsmedona</h1>
+<h3 align="center">A passionate Flutter Developer from India</h3>
+
+- 🌱 I’m currently learning **Dart, Flutter, Api, Provider, Hive, Shared Preferences**
+
+- 📫 How to reach me **donashaji254@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/donashaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donashaji" height="30" width="40" /></a>
+<a href="https://instagram.com/_.donatella_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.donatella_._" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmedona&" alt="itsmedona" /></p>
+
 
 <!---
 itsmedona/itsmedona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
