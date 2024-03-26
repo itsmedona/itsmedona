@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm itsmedona</h1>
+<h1 align="center">Hi 👋, I'm Dona Shaji</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
 
 - 🌱 I’m currently learning **Dart, Flutter, Api, Provider, Hive, Shared Preferences**
