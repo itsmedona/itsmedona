@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm DONA SHAJI</h1>
-<h3 align="center">A Passionate Flutter Developer</h3>
+<h3 align="center">A passionate Flutter developer who holds a Graduation in Computer Science who loves to create Mobile Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmedona&label=Profile%20views&color=0e75b6&style=flat" alt="itsmedona" /> </p>
 
